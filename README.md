@@ -278,9 +278,6 @@ npm run build
 
 This project is licensed under the MIT License.
 
-## 👥 Authors
-
-Built with ❤️ following production ML engineering best practices.
 
 ## 🙏 Acknowledgments
 
