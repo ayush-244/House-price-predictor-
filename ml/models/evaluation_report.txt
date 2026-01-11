@@ -1,0 +1,14 @@
+============================================================
+LASSO REGRESSION - EVALUATION REPORT
+============================================================
+
+Regression Metrics:
+  Mean Absolute Error (MAE):     $12,231,714.59
+  Root Mean Squared Error (RMSE): $14,119,369.89
+  R² Score:                       -0.0000
+  Mean Absolute Percentage Error: 132.88%
+
+Relative Performance:
+  Mean House Price:               $25,471,460.72
+  RMSE as % of Mean Price:        55.43%
+  MAE as % of Mean Price:         48.02%
