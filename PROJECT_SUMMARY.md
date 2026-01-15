@@ -66,9 +66,7 @@ house-price-prediction/
     ├── ML_DESIGN.md               # ML methodology
     └── API.md                     # API documentation
 ```
-
 ## 🎯 Key Features Implemented
-
 ### Machine Learning Layer ✅
 - ✅ Data preprocessing with missing value handling
 - ✅ Outlier detection using Z-score method
@@ -219,3 +217,6 @@ With a good dataset, you should see:
 - Deployment
 
 **Happy coding! 🚀**
+
+
+
