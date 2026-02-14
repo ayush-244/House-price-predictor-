@@ -1,0 +1,2 @@
+# Place your housing dataset here
+# Expected format: CSV file with columns: area, bedrooms, bathrooms, location, year_built, price
