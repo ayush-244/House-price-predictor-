@@ -2,6 +2,8 @@
 
 Use this checklist to ensure everything is set up correctly.
 
+
+
 ## 📋 Pre-Setup Checklist
 
 - [ ] Python 3.8+ installed (`python --version`)
