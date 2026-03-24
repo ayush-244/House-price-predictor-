@@ -1,8 +1,3 @@
-# ✅ Setup Checklist
-
-Use this checklist to ensure everything is set up correctly.
-
-
 
 ## 📋 Pre-Setup Checklist
 
