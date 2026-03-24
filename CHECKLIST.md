@@ -164,9 +164,7 @@ For production deployment:
 - [ ] Deploy to cloud (Heroku, AWS, etc.)
 
 ## ❌ Troubleshooting
-
 If you encounter issues, check:
-
 ### Backend Won't Start
 - [ ] Checked Python version (3.8+)
 - [ ] Verified all dependencies installed
