@@ -172,11 +172,6 @@ For production deployment:
 
 If you encounter issues, check:
 
-### Model Not Loading
-- [ ] Verified model files exist in `ml/models/`
-- [ ] Checked file paths in backend config
-- [ ] Retrained model if needed
-
 ### Backend Won't Start
 - [ ] Checked Python version (3.8+)
 - [ ] Verified all dependencies installed
