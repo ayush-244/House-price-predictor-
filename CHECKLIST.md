@@ -208,8 +208,5 @@ You're ready to go if:
 - ✅ You understand how to modify and extend the system
 
 
-
-
-
 ---
 
